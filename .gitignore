@@ -1,0 +1,11 @@
+# 실행 중 생기는 파일
+logs/
+node_modules/
+*.log
+
+# 개인 작업 설정
+.claude/
+
+# 운영체제가 만드는 파일
+.DS_Store
+Thumbs.db
