@@ -3294,3 +3294,8 @@ body.sidebar-open #sidebar {
 	margin-left: 14px;
 	padding: 4px 8px;
 }
+.sb-act.always {
+	display: inline-flex;
+	align-items: center;
+	white-space: nowrap;
+}
